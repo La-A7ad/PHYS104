@@ -17,6 +17,9 @@ The index decides which way a ray bends (slide 5):
 - Into a higher index ($n_2 > n_1$, so $v_2 < v_1$): toward the normal.
 - Into a lower index ($n_2 < n_1$, so $v_2 > v_1$): away from the normal.
 
+![[L2-s05-bending.png]]
+*Figure (L2 slide 5): bending toward the normal into a higher index (a), away from it into a lower index (b).*
+
 The refraction rule on slide 3, $\sin\theta_1/\sin\theta_2 = v_1/v_2$, becomes Snell's law once each speed is written as $c/n$. At a single surface, the angle between the refracted ray and the extended incident ray is the deviation $\beta = \lvert\theta_1 - \theta_2\rvert$ (slide 4).
 
 ## Worked detail: how slow is light in diamond?

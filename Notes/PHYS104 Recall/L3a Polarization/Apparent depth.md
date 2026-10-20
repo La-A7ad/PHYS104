@@ -13,6 +13,9 @@ Back to [[L3a Polarization]]
 ## Explanation
 Light from a coin in water bends away from the normal as it leaves into air. Your eye assumes light travels in straight lines, traces the rays back, and places the coin where those lines meet: higher than it really is. Looking from water up into air reverses the bending, so objects above the surface look farther away.
 
+![[L3a-s03-apparent-depth.png]]
+*Figure (L3a slide 3): (a) a slanted view; (b) the view from directly above.*
+
 The formula holds only for viewing nearly straight down. Slide 3 notes that for a slanted view (its figure a) the apparent depth is hard to determine. The slides give the result without a derivation; it follows from Snell's law when the angles are small enough that $\sin\theta \approx \tan\theta$ [Guessing: this small-angle step is not in the course materials].
 
 ## Worked detail: L3a-Ex4 recomputed

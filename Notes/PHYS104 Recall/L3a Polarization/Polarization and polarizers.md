@@ -17,6 +17,9 @@ Two rules cover almost every problem:
 1. **Unpolarized light in**: the transmitted intensity is half the incident intensity, whatever the polarizer's orientation, and the light that comes out is polarized along the axis (slide 9).
 2. **Polarized light in**: Malus's law applies, $I = I_0\cos^2\theta$, where θ is the angle between the light's polarization and the axis (slide 11).
 
+![[L3a-s09-polarizer.png]]
+*Figure (L3a slide 9): a polarizer halves unpolarized light and polarizes it along its axis.*
+
 A polarizer works by selective absorption. Reflection near the polarizing angle is a second way to polarize light (slides 16 to 17).
 
 ## Worked detail: crossed polarizers

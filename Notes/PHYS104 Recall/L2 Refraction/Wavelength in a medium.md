@@ -15,6 +15,9 @@ For any wave $v = \lambda f$ (slide 6): λ is the distance between successive cr
 $$\frac{n_1}{n_2} = \frac{v_2}{v_1} = \frac{\lambda_2}{\lambda_1}$$
 A higher index means a shorter wavelength. The product $n\lambda$ is the same in every medium, and equals the vacuum wavelength.
 
+![[L2-s08-wavelength.png]]
+*Figure (L2 slide 8).*
+
 > [!quote] Textbook note
 > Textbook p. 907: if the frequency changed at the boundary, crests would arrive at one rate and leave at another, and waves would pile up or vanish there. Nothing at the boundary can do that, so f is the same on both sides.
 

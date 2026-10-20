@@ -15,6 +15,9 @@ A wave front is a surface through the points of a wave that have the same phase 
 - **Plane wave** (very distant source, such as the Sun): the new front is a parallel plane, vΔt ahead.
 - **Spherical wave** (nearby source, such as a lamp): the new front is a larger sphere (slide 18).
 
+![[L2-s18-huygens.png]]
+*Figure (L2 slide 18).*
+
 At a boundary the construction proves both laws of ray optics (slides 19 to 21):
 - **Reflection**: the incident and reflected wavelets travel at the same speed, so two right triangles sharing a hypotenuse are congruent, and θ₁' = θ₁.
 - **Refraction**: the wavelets travel at different speeds, so the triangles share the hypotenuse but have different legs, giving $\sin\theta_1/\sin\theta_2 = v_1/v_2$ and then Snell's law.

@@ -15,6 +15,9 @@ Symbols: $i_1$ is the angle of incidence at the first face and $r_1$ the angle o
 
 Geometry: the normals at the two faces meet at a point O, where they make an angle of $180^\circ - A$, so $r_1 + r_2 = A$. Each face turns the ray the same way, by $i_1 - r_1$ and $i_2 - r_2$, and these add to $\delta = i_1 + i_2 - A$.
 
+![[L3b-s07-prism-geometry.png]]
+*Figure (L3b slide 7).*
+
 Emergence (slide 8): $r_1$ can never exceed θc, and $r_2$ must not if the ray is to leave.
 - $A \le \theta_c$: every ray leaves.
 - $\theta_c < A < 2\theta_c$: only rays with $i_1$ above $i_{1,min}$ leave, where $\sin i_{1,min} = n\sin(A - \theta_c)$.

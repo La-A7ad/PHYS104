@@ -13,6 +13,9 @@ Back to [[L3a Polarization]]
 ## Explanation
 When unpolarized light reflects from a surface, the reflected and refracted beams are usually both partially polarized (slide 16). At $\theta_p$ the reflected beam is completely polarized, vibrating perpendicular to the plane of incidence, while the refracted beam stays partially polarized. At that angle the reflected and refracted rays are perpendicular (slide 17).
 
+![[L3a-s17-brewster.png]]
+*Figure (L3a slide 17).*
+
 The law in three lines:
 1. Perpendicular rays: $\theta_r = 90^\circ - \theta_p$.
 2. Snell's law: $n_1\sin\theta_p = n_2\sin(90^\circ - \theta_p) = n_2\cos\theta_p$.

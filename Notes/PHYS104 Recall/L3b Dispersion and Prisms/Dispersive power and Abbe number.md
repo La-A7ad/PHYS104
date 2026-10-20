@@ -19,6 +19,9 @@ For a thin prism ($A \lesssim 10^\circ$), $\delta = (n - 1)A$ for every colour (
 
 A high V (crown glass, V > 50) means low dispersion; a low V (flint glass, V < 50) means high dispersion.
 
+![[L3b-s12-angular-dispersion.png]]
+*Figure (L3b slides 12 to 13): the angular dispersion between the red and violet rays.*
+
 ## Worked detail: L3b-Ex2 recomputed
 A 60.0° BK7 prism at minimum deviation, with $n_R = 1.5143$, $n_V = 1.5224$, $n_Y = 1.5170$ (slide 16):
 - $\frac{60^\circ + \delta_R}{2} = \sin^{-1}(0.75715) = 49.21^\circ$, so $\delta_R = 38.43^\circ$

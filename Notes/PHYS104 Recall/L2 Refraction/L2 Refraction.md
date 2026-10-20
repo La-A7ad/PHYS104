@@ -50,6 +50,14 @@ Two questions from [[L1 Nature of Light|L1]].
 > - Glass to air: $v_2 > v_1$, so $\theta_2 > \theta_1$. The ray bends **away** from the normal.
 >
 > The **index of refraction** $n = c/v$ (no unit, with $c = 3\times10^8$ m/s) packages the speed: slower light means larger n. The course takes n = 1 for air; every other medium has n > 1 (slide 4). So entering a higher n, bend toward the normal; entering a lower n, bend away. The relative index ${}_1n_2 = n_2/n_1$ compares the two media (slide 5). The angle between the refracted ray and the extended incident ray is the **deviation**, $\beta = \lvert\theta_1 - \theta_2\rvert$ (slide 4). The incident, reflected and refracted rays and the normal all lie in one plane.
+>
+> At a boundary, part of the light's energy is reflected and part enters the second medium (slide 3).
+>
+> ![[L2-s03-refraction.png]]
+> *Figure (L2 slide 3): incident, reflected and refracted rays at an air-glass surface. Light slows in the glass ($v_2 < v_1$) and bends toward the normal.*
+>
+> ![[L2-s05-bending.png]]
+> *Figure (L2 slide 5): (a) into a higher index the ray bends toward the normal; (b) into a lower index it bends away.*
 
 > [!note]- Why it works
 > When a wave front reaches the boundary at a slant, one edge enters the slow medium first and falls behind, so the front swings around. The sine rule is the exact form of that swing; slides 20 to 21 derive it from Huygens' principle, and the last section of this note walks through it.
@@ -106,6 +114,11 @@ Two questions from [[L1 Nature of Light|L1]].
 >
 > Check with $v = \lambda f$: $(443\times10^{-9})(5.09\times10^{14}) = 2.26\times10^8$ m/s.
 >
+> For the same light in two media, $n_1\lambda_1 = n_2\lambda_2$, so the index is inversely proportional to the wavelength in that medium: $n \propto 1/\lambda$ (slide 8).
+>
+> ![[L2-s08-wavelength.png]]
+> *Figure (L2 slide 8): the crests bunch up in the slower medium 2, so λ₂ < λ₁, while the frequency stays the same.*
+>
 > > [!quote] Textbook note
 > > Textbook p. 907: the number of crests passing an observer each second must be the same on both sides of the boundary. Otherwise waves would pile up or disappear at the boundary, and nothing there can do that. So f is set by the source and carried across unchanged.
 
@@ -134,6 +147,12 @@ Two questions from [[L1 Nature of Light|L1]].
 >
 > ![[L2-snell-curve.png]]
 > *Figure: Snell's law at a water surface, n = 1.33 (L2 slides 6 and 11). The red water-to-air curve stops at 48.8°; past it no refraction angle exists. The blue air-to-water curve continues all the way to 90°.*
+>
+> ![[L2-s10-tir-rays.png]]
+> *Figure (L2 slide 10): rays from one source under water. Small angles refract out (I, J); at the critical angle the ray skims the surface (K); beyond it the ray is totally reflected (L).*
+>
+> ![[L2-s11-tir-panels.png]]
+> *Figure (L2 slide 11): (a) partial refraction and reflection; (b) at the critical angle the refracted ray is at 90°; (c) total internal reflection.*
 
 > [!note]- Why it works
 > Snell's law asks for $\sin\theta_2 = (n_1/n_2)\sin\theta_1$. When $n_1 > n_2$ that product passes 1 before θ₁ reaches 90°, and no angle has a sine above 1. When $n_1 < n_2$ it stays below 1 for every θ₁, so TIR can only happen going from a higher index to a lower one.
@@ -180,6 +199,9 @@ Two questions from [[L1 Nature of Light|L1]].
 ## Turning light with a glass prism
 > [!question] L2-Q6 · Comparison (L2 slides 14 to 16)
 > A 45°-90°-45° prism of glass (n = 1.50) turns a beam through 90° because the beam meets the long face at 45° and does not get out there. Compare that with (a) the same prism made of a plastic with n = 1.38, and (b) the glass prism used under water (n = 1.33). Does the trick still work in each case?
+>
+> ![[L2-s14-prisms.png]]
+> *Figure (L2 slide 14): (a) a beam turned through 90° at the long face, (b) through 180° by two reflections, (c) the prisms inside binoculars.*
 
 *Think first: write down the single comparison that decides each case.*
 
@@ -194,6 +216,11 @@ Two questions from [[L1 Nature of Light|L1]].
 
 > [!note]- Why it works
 > The prism's shape fixes the angle at 45°, so success depends only on θc. Lowering the prism's index, or raising the index around it, pushes θc above 45°. Binoculars use such prisms to fold the light path (slide 15). An **optical fiber** uses the same rule: a core of high index inside a cladding of lower index, so light hitting the cladding beyond θc stays in the core (slide 16).
+>
+> Optical fibers are hair-thin threads of glass or plastic, and the light zigzags along the core by repeated total internal reflection. In medicine, endoscopes use them to see inside the body. The same reflecting prisms appear in periscopes and telescopes (slides 14 to 16).
+>
+> ![[L2-s16-fiber.png]]
+> *Figure (L2 slide 16): light guided along the core of an optical fiber by total internal reflection at the cladding.*
 
 > [!question] L2-Q6x · [Extension] Calculation
 > What is the smallest index a 45°-90°-45° prism can have and still turn light by total internal reflection in air?
@@ -216,6 +243,9 @@ Two questions from [[L1 Nature of Light|L1]].
 > (b) The tangent surface is a larger sphere, its radius increased by vΔt.
 >
 > The distance is set by the wave speed in the medium: cΔt in vacuum, (c/n)Δt in a medium of index n. Plane waves come from very distant sources such as the Sun; spherical waves from nearby sources such as a lamp (slide 18).
+>
+> ![[L2-s18-huygens.png]]
+> *Figure (L2 slide 18): Huygens' construction for (a) a plane wave and (b) a spherical wave. The new front is tangent to wavelets of radius cΔt.*
 
 > [!note]- Why it works
 > The tangent surface to a row of equal circles has the same shape as the row, shifted outward by the radius. Change the wavelet radius from place to place, by changing the medium, and the front changes direction. That is the idea behind the next two derivations.
@@ -229,6 +259,9 @@ Two questions from [[L1 Nature of Light|L1]].
 ## Deriving the reflection law from wavelets
 > [!question] L2-D1 · Derivation (L2 slide 19)
 > A plane wave front AB approaches a mirror, and point A has just touched it. In the time ray 2 travels from B to the mirror at C, the wavelet sent out from A grows to radius AD, and the reflected wave front runs from D to C. Use this construction to prove how the angle of reflection compares with the angle of incidence.
+>
+> ![[L2-s19-reflection-derivation.png]]
+> *Figure (L2 slide 19): the construction. Ray 1 reaches the mirror at A; in the same time ray 2 travels from B to C while A's wavelet grows to D.*
 
 *Think first: sketch A, B, C and D before opening the hint.*
 
@@ -270,6 +303,9 @@ Two questions from [[L1 Nature of Light|L1]].
 ## Deriving the refraction law from wavelets
 > [!question] L2-D2 · Derivation (L2 slides 20 to 21)
 > Ray 1 reaches the boundary at A first. During the next Δt, ray 1 travels from A to B inside medium 2 at speed $v_2$, while ray 2 travels from A' to C in medium 1 at speed $v_1$. A and C both lie on the boundary. Derive a relation between θ₁, θ₂, n₁ and n₂.
+>
+> ![[L2-s20-refraction-derivation.png]]
+> *Figure (L2 slide 20): the construction. Ray 2 travels A′C in medium 1 while ray 1 travels AB in medium 2.*
 
 *Think first: mark the two right triangles before opening the hint.*
 
@@ -356,16 +392,158 @@ No hints. Six questions across L2.
 > [!success]- Answer
 > The frequency does not change at a boundary; it is set by the source. Light slows to v = c/n because of the medium, and since v = λf with f fixed, the wavelength shrinks by the factor n.
 
-## Practice links
-Open these after the recall sections. The questions are not copied here.
-- **Tutorial 1** (`Sheet 1_PHYS 104_Fall 2026.pdf`):
-  - **Q2**: speed and wavelength of light in a liquid of given index. Style: direct calculation.
-  - **Q3**: angle of incidence that makes the reflected and refracted rays perpendicular, in symbols. Style: short derivation; the result reappears as Brewster's law in [[L3a Polarization|L3a]].
-  - **Q4**: light through stacked slabs; the emerging angle, and the incidence that gives TIR at the last surface. Style: multi-step Snell's law.
-  - **Q5**: critical angle given; refraction in both directions across the surface. Style: two-way Snell's law.
-  - **Q6**: a prism face struck at the critical angle; find the incidence at the first face. Style: TIR plus prism geometry ($r_1 + r_2 = A$, from [[L3b Dispersion and Prisms|L3b]]).
-- **Assignment 1** (`Assignment 1 - PHYS 104 - Fall 2026.pdf`):
-  - **Q1**: 30°-60°-90° prism in water; the exit angle, and the surrounding index at which TIR stops. Style: TIR check plus two refractions.
+## Practice
+Everything needed is here: the slide examples and the tutorial and assignment questions are written out in full, with their figures. Answer first, then open the boxes. All tutorial and assignment questions, in sheet order, are also collected in [[Tutorials and Assignment]].
+
+### Lecture examples
+
+#### L2-Ex2
+> [!question] L2-Ex2 · Calculation (L2 slide 9)
+> A beam of light of wavelength 550 nm travels in air and strikes a slab of transparent material. The incident beam makes an angle of 40° with the normal, and the refracted beam makes an angle of 26° with the normal. Find the index of refraction of the material.
+
+*Think first: write the equation you would start from.*
+
+> [!tip]- Hint
+> Snell's law with $n_1 = 1$ for air. Decide whether you need the wavelength at all.
+
+> [!success]- Answer
+> 1. Snell's law: $n_1\sin\theta_1 = n_2\sin\theta_2$, with $n_1 = 1$, $\theta_1 = 40^\circ$, $\theta_2 = 26^\circ$.
+> 2. $n_2 = \dfrac{\sin 40^\circ}{\sin 26^\circ} = \dfrac{0.6428}{0.4384} = $ **1.47**
+>
+> The wavelength is not needed for n. It does tell you what happens inside the slab: $\lambda = 550/1.466 = 375$ nm and $v = c/n = 2.05\times10^8$ m/s, with the frequency unchanged.
+
+#### L2-Ex3
+> [!question] L2-Ex3 · Calculation (L2 slides 12 to 13)
+> A beam of light travelling in diamond ($n_1 = 2.42$) meets a diamond-air surface at an angle of incidence of 28°.
+> (a) Will part of the beam enter the air ($n_2 = 1$), or will the beam be totally reflected at the surface?
+> (b) Repeat part (a) with the diamond surrounded by water ($n_2 = 1.33$) instead of air.
+
+*Think first: decide which angle you need to compare 28° with.*
+
+> [!tip]- Hint
+> Find the critical angle for each surrounding medium, $\sin\theta_c = n_2/n_1$, and compare it with 28°.
+
+> [!success]- Answer
+> (a) $\theta_c = \sin^{-1}\dfrac{1}{2.42} = 24.4^\circ$. Since 28° > 24.4°, there is no refraction: the light is **totally reflected** back into the diamond.
+> (b) $\theta_c = \sin^{-1}\dfrac{1.33}{2.42} = 33.3^\circ$. Since 28° < 33.3°, the beam is **partly refracted** into the water and partly reflected. The refracted ray travels at $\sin^{-1}\dfrac{2.42\sin 28^\circ}{1.33} = 58.7^\circ$ from the normal.
+
+### Tutorial and assignment questions
+
+#### Tutorial 1, Q2
+> [!question] T1-Q2 · Calculation (Tutorial 1, Q2)
+> A beam of light has a wavelength of 650 nm in vacuum.
+> (a) What is the speed of this light in a liquid whose index of refraction at this wavelength is 1.47?
+> (b) What is the wavelength of these waves in the liquid?
+
+*Think first: decide which quantities change in the liquid.*
+
+> [!tip]- Hint
+> Only the speed and the wavelength change, and both are divided by n. Stuck? Revisit [[L2 Refraction#Speed, wavelength and frequency in a medium|L2, speed, wavelength and frequency]].
+
+> [!success]- Answer
+> (a) $v = \dfrac{c}{n} = \dfrac{3.00\times10^8}{1.47} = $ **2.04 × 10⁸ m/s**
+> (b) $\lambda_n = \dfrac{\lambda_0}{n} = \dfrac{650\ \text{nm}}{1.47} = $ **442 nm**
+>
+> Check: the frequency is the same inside and outside. Outside, $f = c/\lambda_0 = 4.62\times10^{14}$ Hz; inside, $v/\lambda_n = (2.04\times10^8)/(442\times10^{-9}) = 4.62\times10^{14}$ Hz.
+
+#### Tutorial 1, Q3
+> [!question] T1-Q3 · Derivation (Tutorial 1, Q3)
+> A beam of light both reflects and refracts at the surface between air and glass, as shown in the figure. If the refractive index of the glass is $n_g$, find the angle of incidence $\theta_1$ in the air that would result in the reflected ray and the refracted ray being perpendicular to each other.
+>
+> ![[L2-T1Q3-perpendicular.png]]
+> *Figure: Tutorial 1, Q3.*
+
+*Think first: mark every angle you can at the point where the rays meet the surface.*
+
+> [!tip]- Hint
+> The reflected ray leaves at θ₁ from the normal. Use the 90° between the two rays to write θ₂ in terms of θ₁, then apply Snell's law. Stuck? Revisit [[L3a Polarization#Deriving Brewster's law|L3a, Brewster's law]].
+
+> [!success]- Answer
+> 1. Law of reflection: the reflected ray is at θ₁ from the normal.
+> 2. Perpendicular rays: $\theta_1 + 90^\circ + \theta_2 = 180^\circ$, so $\theta_2 = 90^\circ - \theta_1$.
+> 3. Snell's law with $n_{air} = 1$: $\sin\theta_1 = n_g\sin(90^\circ - \theta_1) = n_g\cos\theta_1$.
+> 4. Divide by $\cos\theta_1$: $\tan\theta_1 = n_g$.
+>
+> **Answer: $\theta_1 = \tan^{-1}(n_g)$.** This is Brewster's polarizing angle (L3a slide 18).
+
+#### Tutorial 1, Q4
+> [!question] T1-Q4 · Calculation (Tutorial 1, Q4)
+> The figure below shows the path of a light beam through several slabs with different indices of refraction.
+> (a) If $\theta_1 = 30.0^\circ$, what is the angle $\theta_2$ of the emerging beam? (The sheet prints "θ₁" here; the figure and the intended question use θ₂.)
+> (b) What must the incident angle $\theta_1$ be to have total internal reflection at the surface between the medium with n = 1.20 and the medium with n = 1.00?
+>
+> ![[L2-T1Q4-slabs.png]]
+> *Figure: Tutorial 1, Q4.*
+
+*Think first: decide whether the middle slabs change the final answer.*
+
+> [!tip]- Hint
+> Across parallel boundaries $n\sin\theta$ never changes, so the middle slabs drop out. For (b), total internal reflection at the last surface starts when the refraction angle in the air reaches 90°. Stuck? Revisit [[L2 Refraction#Leaving water at steeper and steeper angles|L2, total internal reflection]].
+
+> [!success]- Answer
+> (a) Snell's law at each boundary gives $1.60\sin\theta_1 = 1.40\sin\theta_a = 1.20\sin\theta_b = 1.00\sin\theta_2$, with $1.60\sin 30.0^\circ = 0.800$:
+> - in the 1.40 slab: $\sin\theta_a = 0.800/1.40 = 0.571$, $\theta_a = 34.8^\circ$
+> - in the 1.20 slab: $\sin\theta_b = 0.800/1.20 = 0.667$, $\theta_b = 41.8^\circ$
+> - in air: $\sin\theta_2 = 0.800$, so **θ₂ = 53.1°**
+>
+> (b) TIR at the 1.20 to 1.00 surface needs $1.20\sin\theta_b \ge 1.00$, and $1.20\sin\theta_b = 1.60\sin\theta_1$. So $\sin\theta_1 \ge 1/1.60 = 0.625$: **θ₁ ≥ 38.7°**.
+> Check: TIR at the earlier boundaries would need $\theta_1 \ge 61.0^\circ$ (1.60 to 1.40) or $\theta_1 \ge 48.6^\circ$ (1.40 to 1.20), so the last surface is the first to reflect totally.
+
+#### Tutorial 1, Q5
+> [!question] T1-Q5 · Calculation (Tutorial 1, Q5)
+> The critical angle for total internal reflection at a liquid-air interface is 42.5°.
+> (a) If a ray of light traveling in the liquid has an angle of incidence at the interface of 35.0°, what angle does the refracted ray in the air make with the normal?
+> (b) If a ray of light traveling in air has an angle of incidence at the interface of 35.0°, what angle does the refracted ray in the liquid make with the normal?
+
+*Think first: decide what the critical angle tells you about the liquid.*
+
+> [!tip]- Hint
+> Turn the critical angle into the liquid's index first: $\sin\theta_c = 1/n$. Stuck? Revisit [[L2 Refraction#Gems in air and in water|L2, critical angle calculations]].
+
+> [!success]- Answer
+> Index: $n = \dfrac{1}{\sin 42.5^\circ} = 1.48$.
+> (a) Liquid to air. 35.0° is below the critical angle, so the ray gets out: $\sin\theta = 1.48\sin 35.0^\circ = 0.849$, so **θ = 58.1°**.
+> (b) Air to liquid: $\sin\theta = \dfrac{\sin 35.0^\circ}{1.48} = 0.388$, so **θ = 22.8°**. Going from a low to a high index there is no critical angle to worry about.
+
+#### Tutorial 1, Q6
+> [!question] T1-Q6 · Calculation (Tutorial 1, Q6)
+> The light beam in the figure strikes surface 2 at the critical angle. Determine the angle of incidence $\theta_1$.
+>
+> ![[L2-T1Q6-prism.png]]
+> *Figure: Tutorial 1, Q6.*
+
+*Think first: list what the 42.0° and the 60.0° each tell you.*
+
+> [!tip]- Hint
+> The critical angle gives n. Inside the prism, the two angles measured from the normals add up to the angle between the faces: $r_1 + r_2 = A$. Stuck? Revisit [[L3b Dispersion and Prisms#Deriving the prism relations|L3b, prism relations]].
+
+> [!success]- Answer
+> 1. Critical angle: $\sin 42.0^\circ = 1/n$, so $n = 1.494$.
+> 2. Geometry: surfaces 1 and 2 meet at 60.0°, and the beam meets surface 2 at $r_2 = 42.0^\circ$, so $r_1 = 60.0^\circ - 42.0^\circ = 18.0^\circ$.
+> 3. Snell's law at surface 1: $\sin\theta_1 = 1.494\sin 18.0^\circ = 0.462$, so **θ₁ = 27.5°**.
+
+#### Assignment 1, Q1
+> [!question] A1-Q1 · Calculation (Assignment 1, Q1)
+> As shown in the figure, a light ray is incident normal to one face of a 30°-60°-90° prism of flint glass (n = 1.66) that is immersed in water.
+> (a) Determine the exit angle $\theta_3$ of the ray.
+> (b) A substance is dissolved in the water to increase the index of refraction $n_2$. At what value of $n_2$ does total internal reflection cease at point P?
+>
+> ![[L2-A1Q1-prism-water.png]]
+> *Figure: Assignment 1, Q1. Water has $n_2 = 1.33$, the value the slides use.*
+
+*Think first: trace the ray to P and decide whether it can get out there.*
+
+> [!tip]- Hint
+> Entering along the normal, the ray doesn't bend, so it meets the long face at the 60° corner angle. Compare that with the glass-to-water critical angle, then follow the reflected ray to the bottom face. Stuck? Revisit [[L2 Refraction#Turning light with a glass prism|L2, prisms and TIR]].
+
+> [!success]- Answer
+> (a)
+> 1. The ray enters along the normal and does not bend, so it meets the long face at P at θ₁ = 60.0°.
+> 2. Critical angle, glass to water: $\sin\theta_c = \dfrac{1.33}{1.66} = 0.801$, so $\theta_c = 53.2^\circ$. Since 60.0° > 53.2°, the ray is totally reflected at P.
+> 3. The ray arrives parallel to the bottom face and the long face is tilted 30° to it, so the reflected ray leaves at 30° + 30° = 60° below the horizontal. It meets the bottom face at θ₂ = 30.0° from the normal.
+> 4. Snell's law at the bottom face: $1.66\sin 30.0^\circ = 1.33\sin\theta_3$, so $\sin\theta_3 = 0.624$ and **θ₃ = 38.6°**.
+>
+> (b) Total reflection at P stops once the critical angle reaches 60.0°: $\sin 60.0^\circ = n_2/1.66$, so **n₂ = 1.66 sin 60.0° = 1.44**.
 
 ## Errata
 > [!bug]- Slide 21, step (4)

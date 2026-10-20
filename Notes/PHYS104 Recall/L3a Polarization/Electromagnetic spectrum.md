@@ -20,6 +20,9 @@ Because $c = \lambda f$ is fixed in vacuum, a long wavelength means a low freque
 
 Visible light is a narrow band, from about 400 nm (violet) to 750 nm (red).
 
+![[L3a-s06-spectrum.png]]
+*Figure (L3a slide 6).*
+
 ## Worked detail: the edges of the visible band
 Using $f = c/\lambda$:
 - Red edge, $7.5\times10^{-7}$ m: $f = (3.0\times10^8)/(7.5\times10^{-7}) = 4.0\times10^{14}$ Hz

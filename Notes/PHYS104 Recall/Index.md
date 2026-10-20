@@ -12,7 +12,7 @@ The Nature of Light and the Principles of Ray Optics, rebuilt as questions. Answ
 4. Try the **[Extension]** question, which takes the idea past the slides. Its answer has its own collapsed box.
 5. **Derivations** go one step at a time: attempt each step before opening its result.
 6. Sub-notes are linked from hints. Open them after an attempt, not before.
-7. At the end of each lecture: a **Mixed set** with no hints, a timed **Self-check**, and from L2 onward a **Review** of earlier lectures.
+7. At the end of each lecture: a **Mixed set** with no hints, a timed **Self-check**, and from L2 onward a **Review** of earlier lectures. Then work through that lecture's **Practice** section: the slide examples and the tutorial and assignment questions, written out in full with their figures, hints and worked answers.
 8. Tick a concept in the [[Recall Log]] only when you get it right without a hint.
 
 Every question is tagged with a type (Prediction, Calculation, Explanation, Comparison or Derivation) and a source: a lecture slide, a tutorial question or an assignment question. [Extension] questions have no source, because they go beyond the course material.
@@ -27,9 +27,11 @@ Every question is tagged with a type (Prediction, Calculation, Explanation, Comp
 
 Two lecture files say "Lecture 3" on their title slide. The file named "Lecture 3" covers polarization, so it is L3a here. The file named "Lecture 4" also opens with a "Lecture 3" title slide; it covers dispersion and prisms, so it is L3b.
 
-Reference notes: [[Glossary]] (one line per term; it gives definitions away, so use it after attempting) and [[Recall Log]] (your progress).
+Reference notes: [[Glossary]] (one line per term; it gives definitions away, so use it after attempting), [[Recall Log]] (your progress) and [[Tutorials and Assignment]] (all 15 tutorial and assignment questions in sheet order, with figures, hints and worked answers).
 
 ## Sources
+You do not need the PDFs to study: every slide figure the questions rely on, every slide example and every tutorial and assignment question is written out in these notes. The sources are listed here only so you can check them.
+
 - Lectures: the four PDFs in `Lectures/`.
 - Tutorial 1 = `Sheet 1_PHYS 104_Fall 2026.pdf` and Tutorial 2 = `Sheet 2_PHYS 104_Fall 2026.pdf`, in `Tutorials/`.
 - Assignment 1 = `Assignment 1 - PHYS 104 - Fall 2026.pdf`, in `Assignments/`.

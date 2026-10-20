@@ -46,6 +46,9 @@ Two questions from [[L2 Refraction|L2]].
 > [!success]- Answer
 > You are seeing the sky. Light from the sky heading down toward the road at a shallow angle passes into warmer, lower-index air, where it travels faster. The lower part of each wave front gets ahead, so the front tilts and the ray curves upward before it reaches the road. It arrives at your eye from below, and your eye traces it back in a straight line to the road surface. A patch of sky seen "on the road" looks like water reflecting the sky. This illusion is a **mirage**.
 >
+> ![[L3a-s02-mirage.png]]
+> *Figure (L3a slide 2): a mirage photograph; wave fronts tilting because light is fastest in the hot air near the ground; rays from a palm tree curving up to an observer, who sees an inverted image as if reflected in water.*
+>
 > > [!quote] Textbook note
 > > Textbook p. 914: light from the sky reaching the hot roadway at a shallow angle refracts continuously, misses the road, and curves back upward into your eye, so the road looks wet.
 
@@ -75,6 +78,9 @@ Two questions from [[L2 Refraction|L2]].
 > (b) Object in air, viewer in water: $d' = 1.50 \times \dfrac{1.33}{1.00} = 2.00$ m. The lamp looks farther away than it is.
 >
 > Slide check: L3a-Ex4 gives 3.00/1.33 = 2.26 m, as the slide says.
+>
+> ![[L3a-s03-apparent-depth.png]]
+> *Figure (L3a slide 3): (a) a slanted view, where the apparent depth is hard to work out; (b) viewing from directly above, where d′ = d n₂/n₁.*
 
 > [!note]- Why it works
 > Rays leaving water bend away from the normal, so when your eye traces them back in straight lines they seem to come from a point nearer the surface. For a fish looking up the bending is reversed, so things above the water seem farther away. The formula holds only for viewing nearly straight down; slide 3 notes that a slanted view is much harder to work out.
@@ -96,6 +102,9 @@ Two questions from [[L2 Refraction|L2]].
 
 > [!success]- Answer
 > The magnetic field oscillates along **z**: E along y, B along z and travel along x are mutually perpendicular, and the wave travels in the direction of $\vec{E}\times\vec{B}$ (slide 5's figure). Both fields oscillate across the direction of travel, so an **electromagnetic wave** is **transverse**. Such waves are produced by accelerating charges, such as electrons or protons. In vacuum they travel at $c = 3\times10^8$ m/s; in a medium they are slower. Light is an electromagnetic wave.
+>
+> ![[L3a-s05-em-wave.png]]
+> *Figure (L3a slide 5): E along y and B along z, with the wave travelling along x, the direction of E × B.*
 
 > [!note]- Why it works
 > Because the electric field oscillates sideways, there is a choice of sideways direction for it: up-down, left-right, or anything in between. Choosing one of those directions is what polarization means (slides 7 to 8), which is where this lecture goes next.
@@ -122,6 +131,9 @@ Two questions from [[L2 Refraction|L2]].
 >
 > The **electromagnetic spectrum** runs from radio waves through microwaves, infrared, visible light and ultraviolet to X-rays and gamma rays. Visible light spans about $7.5\times10^{-7}$ m (red, $f = c/\lambda = 4.0\times10^{14}$ Hz) to $4.0\times10^{-7}$ m (violet, $7.5\times10^{14}$ Hz).
 > On slide 6 the first line is right: shorter λ means higher f and more energy. The second line is **wrong**: longer λ means lower f and **less** energy. See Errata.
+>
+> ![[L3a-s06-spectrum.png]]
+> *Figure (L3a slide 6): the spectrum by wavelength and frequency; the visible band runs from 7.5 × 10⁻⁷ m (red, 4 × 10¹⁴ Hz) to 4.0 × 10⁻⁷ m (violet, 7.5 × 10¹⁴ Hz). The slide's two arrow statements are left out of this crop because the second is wrong.*
 
 > [!note]- Why it works
 > In vacuum every electromagnetic wave travels at c, so wavelength and frequency are locked together inversely. Photon energy follows frequency, so long-wavelength radio photons carry the least energy and X-ray photons far more.
@@ -145,6 +157,15 @@ Two questions from [[L2 Refraction|L2]].
 > The rope vibrates vertically, so the wave is **polarized** in the vertical direction. The vertical slot lets that motion through. The horizontal slot blocks it, because the rope cannot move up and down inside a horizontal gap. Nothing passes the second slot.
 > For light: in **linearly polarized** light the electric field vibrates in one direction only, while in **unpolarized** light it vibrates in all directions across the beam (slide 7). A **polarizer** passes the field component along its **transmission axis**. Two polarizers with axes at 90° ("crossed") pass nothing.
 > Slide 8's statement (b) says the opposite for the perpendicular slot; see Errata.
+>
+> ![[L3a-s07-polarized.png]]
+> *Figure (L3a slide 7): the electric field of unpolarized light points every way across the beam; in polarized light it points one way.*
+>
+> ![[L3a-s08-slots.png]]
+> *Figure (L3a slide 8): (a) a vertically vibrating rope passes a vertical slot; (b) a horizontally vibrating rope is blocked by it.*
+>
+> ![[L3a-s08-ropes.png]]
+> *Figure (L3a slide 8): rope waves. Warning: the slide's labels are swapped. The rope vibrating up and down is vertically polarized; the side-to-side rope is horizontally polarized.*
 
 > [!note]- Why it works
 > A slot transmits only motion along its length. For light, the transmission axis plays the slot: the field component along it passes and the perpendicular component is absorbed.
@@ -166,6 +187,11 @@ Two questions from [[L2 Refraction|L2]].
 
 > [!success]- Answer
 > **4.0 W/m²**. A polarizer passes half the intensity of unpolarized light (L3a slide 9), and rotating it changes nothing, because unpolarized light has no special direction to line up with. The light that comes out is polarized along the polarizer's axis.
+>
+> The slides call the polarizing sheet a **Polaroid**. It works by selective absorption: it passes the field component along its transmission axis and absorbs the perpendicular component (slide 9).
+>
+> ![[L3a-s09-polarizer.png]]
+> *Figure (L3a slide 9): unpolarized light of intensity I₀ leaves the polarizer polarized, with intensity ½I₀.*
 
 > [!note]- Why it works
 > The slides state the factor ½ without deriving it. Since unpolarized light is an even mix of every vibration direction, no orientation of the polarizer is special, so the result cannot depend on the angle.
@@ -190,6 +216,9 @@ Two questions from [[L2 Refraction|L2]].
 
 > [!success]- Step 1 result
 > The component along the axis, $E = E_0\cos\theta$, passes. The perpendicular component, $E_0\sin\theta$, is absorbed.
+>
+> ![[L3a-s11-components.png]]
+> *Figure (L3a slide 11): E₀ resolved along the analyzer's axis (E₀ cos θ, transmitted) and across it (absorbed).*
 
 > [!question] Step 2
 > How does intensity depend on field amplitude?
@@ -209,6 +238,12 @@ Two questions from [[L2 Refraction|L2]].
 > 3. Divide: $I = I_0\cos^2\theta$, **Malus's law**.
 >
 > Special cases (slide 12): θ = 0° gives $I_0$ (maximum), θ = 45° gives $I_0/2$, θ = 90° gives 0 (minimum). Between 0° and 90° the output falls steadily.
+>
+> ![[L3a-s10-setup.png]]
+> *Figure (L3a slide 10): the setup. Unpolarized light, polarizer, polarized light of amplitude E₀, analyzer at angle θ, transmitted amplitude E₀ cos θ, then a photocell that measures the intensity.*
+>
+> ![[L3a-s12-special-cases.png]]
+> *Figure (L3a slide 12): two polarizing sheets with parallel axes (bright), at an angle (dimmer) and crossed (dark).*
 
 > [!note]- Why it works
 > The analyzer keeps only the projection of the field onto its axis. Squaring turns that amplitude into intensity, which is why the fall-off is $\cos^2\theta$ rather than $\cos\theta$.
@@ -290,6 +325,9 @@ Two questions from [[L2 Refraction|L2]].
 ## Light reflected from glass
 > [!question] L3a-Q9 · Prediction (L3a slides 16 to 17)
 > Unpolarized light reflects from a glass surface. As you change the angle of incidence, how does the polarization of the reflected beam change? At one special angle, what is the angle between the reflected and refracted rays?
+>
+> ![[L3a-s16-reflection.png]]
+> *Figure (L3a slide 16): dots are field oscillations parallel to the surface (perpendicular to the page); arrows are oscillations perpendicular to those, in the page.*
 
 *Think first: predict both parts before opening the hint.*
 
@@ -298,6 +336,9 @@ Two questions from [[L2 Refraction|L2]].
 
 > [!success]- Answer
 > At most angles the reflected and refracted beams are both **partially** polarized. At one angle, the **polarizing angle** $\theta_p$, the reflected beam is **completely** polarized, vibrating perpendicular to the plane of incidence (so parallel to the surface), while the refracted beam is still only partly polarized. At that angle the reflected and refracted rays are exactly **90°** apart (L3a slide 17). The plane of incidence is the plane containing the incident ray and the normal.
+>
+> ![[L3a-s17-brewster.png]]
+> *Figure (L3a slide 17): at the polarizing angle the reflected light is 100% polarized perpendicular to the plane of incidence, and the transmitted light is partly polarized.*
 
 > [!note]- Why it works
 > The 90° condition is what pins down $\theta_p$: combined with Snell's law, it makes $\theta_p$ depend only on the two indices. The next section derives that relation.
@@ -388,18 +429,190 @@ No hints. Six questions across L3a.
 > [!success]- Answer
 > d = d′ × n₁/n₂ = 0.75 × 1.33 = **1.00 m**.
 
-## Practice links
-Open these after the recall sections. The questions are not copied here.
-- **Tutorial 2** (`Sheet 2_PHYS 104_Fall 2026.pdf`):
-  - **Q1**: unpolarized light through two filters whose axes are given relative to the vertical. Style: find the angle between the axes, then halve and apply Malus's law.
-  - **Q2**: polarized light and an analyzer; the intensity at one angle, and the angle for a given intensity ratio. Style: Malus's law forward and backward.
-  - **Q3**: four sheets with axes on both sides of the vertical, removing one at a time. Style: chain calculation; watch which side of vertical each axis is on.
-  - **Q4**: a table of cases (unpolarized, and polarized along two axes) for a rotated polarizer. Style: deciding when ½ applies and which angle to use.
-  - **Q5**: completely polarized reflection; find n and the refraction angle. Style: Brewster's law plus the 90° condition.
-- **Assignment 1** (`Assignment 1 - PHYS 104 - Fall 2026.pdf`):
-  - **Q2**: three filters with a given final intensity; remove the middle one. Style: ratio of two Malus chains.
-  - **Q3**: polarizing angle for glass in air and in water. Style: Brewster's law with $n_1 \ne 1$.
-- **Tutorial 1** (`Sheet 1_PHYS 104_Fall 2026.pdf`), **Q3**: reflected and refracted rays perpendicular, in symbols. This is the Brewster condition, reached from the L2 side.
+## Practice
+Everything needed is here: the slide examples and the tutorial and assignment questions are written out in full, with their figures. Answer first, then open the boxes. All tutorial and assignment questions, in sheet order, are also collected in [[Tutorials and Assignment]].
+
+### Lecture examples
+
+#### L3a-Ex4
+> [!question] L3a-Ex4 · Calculation (L3a slide 4)
+> A swimmer is treading water, with her head above the water, at the surface of a pool 3.00 m deep. She sees a coin on the bottom directly below her. How deep does the coin appear to be?
+
+*Think first: guess whether it looks deeper or shallower.*
+
+> [!tip]- Hint
+> $d' = d\,n_2/n_1$, where $n_1$ belongs to the object's medium and $n_2$ to the observer's.
+
+> [!success]- Answer
+> The coin is in water ($n_1 = 1.33$) and the swimmer's eyes are in air ($n_2 = 1.00$):
+> $$d' = 3.00 \times \frac{1.00}{1.33} = 2.26\ \text{m}$$
+> **The coin appears 2.26 m deep.**
+
+#### L3a-Ex5
+> [!question] L3a-Ex5 · Calculation (L3a slide 13)
+> The angle between a polarizer and an analyzer, used together to reduce the intensity of light, is 45°. What is the average intensity of the polarized light reaching the photocell if the average intensity of the unpolarized light is 1 W/m²?
+
+*Think first: write the factor each sheet applies.*
+
+> [!tip]- Hint
+> The polarizer halves unpolarized light; the analyzer then applies Malus's law.
+
+> [!success]- Answer
+> $$I_2 = \frac{I_0}{2}\cos^2 45^\circ = \frac{1}{2} \times \frac{1}{2} = 0.25\ \text{W/m}^2$$
+> **0.25 W/m²** reaches the photocell.
+
+#### L3a-Ex6
+> [!question] L3a-Ex6 · Calculation (L3a slide 14)
+> What value of θ, the angle between the polarizer and analyzer axes, makes the average intensity of the polarized light reaching the photocell one-tenth of the average intensity of the unpolarized light?
+
+*Think first: set up the equation before solving it.*
+
+> [!tip]- Hint
+> Set $\frac{I_0}{2}\cos^2\theta = \frac{I_0}{10}$. Take a square root before the inverse cosine.
+
+> [!success]- Answer
+> 1. $\dfrac{I_0}{2}\cos^2\theta = \dfrac{I_0}{10}$, so $\cos^2\theta = \dfrac15$.
+> 2. $\cos\theta = \sqrt{1/5} = 1/\sqrt5 = 0.447$.
+> 3. **θ = 63.4°.**
+>
+> Using $\cos\theta = 1/5$ instead would give 78.5°, which is wrong; see [[L3a Polarization#Errata|L3a errata]].
+
+#### L3a-Ex7
+> [!question] L3a-Ex7 · Calculation (L3a slide 15)
+> Unpolarized light is incident on three polarizers. The first polarizer has a vertical transmission axis, the second has a transmission axis rotated 30.0° with respect to the first, and the third has a transmission axis rotated 75.0° relative to the first. If the initial intensity of the beam is $I_b$, calculate the light intensity after the beam passes through (a) the second polarizer and (b) the third polarizer.
+
+*Think first: list the angle that matters at each sheet.*
+
+> [!tip]- Hint
+> Halve at the first sheet, then use the angle between consecutive axes: 30.0°, then 75.0° − 30.0° = 45.0°.
+
+> [!success]- Answer
+> (a) The incident intensity at the second polarizer is $I_b/2$:
+> $$I_2 = \frac{I_b}{2}\cos^2 30.0^\circ = \frac{I_b}{2}\cdot\frac34 = \frac38 I_b$$
+> (b) The incident intensity at the third polarizer is $\frac38 I_b$, and its axis is 45.0° from the second's:
+> $$I_3 = \frac38 I_b\cos^2 45.0^\circ = \frac38 I_b \cdot \frac12 = \frac{3}{16}I_b$$
+> The slide's middle step drops the $\cos^2 45^\circ$; see [[L3a Polarization#Errata|L3a errata]].
+
+### Tutorial and assignment questions
+
+#### Tutorial 2, Q1
+> [!question] T2-Q1 · Calculation (Tutorial 2, Q1)
+> Unpolarized light with intensity $I_o$ is incident on two polarizing filters. The axis of the first filter makes an angle of 60° with the vertical, and the axis of the second filter is horizontal. What is the intensity of the light after it has passed through the second filter?
+
+*Think first: find the angle between the two axes.*
+
+> [!tip]- Hint
+> Halve at the first filter, then use the angle between the two axes, not the angle from the vertical. Stuck? Revisit [[L3a Polarization#Polarizer and analyzer|L3a, polarizer and analyzer]].
+
+> [!success]- Answer
+> 1. First filter, unpolarized light in: $I_1 = I_o/2$.
+> 2. Angle between the axes: horizontal is 90° from vertical, so $90^\circ - 60^\circ = 30^\circ$.
+> 3. Malus's law: $I = \dfrac{I_o}{2}\cos^2 30^\circ = \dfrac{I_o}{2}\cdot\dfrac34 = \dfrac38 I_o$.
+>
+> **Answer: 3I_o/8 = 0.375 I_o.**
+
+#### Tutorial 2, Q2
+> [!question] T2-Q2 · Calculation (Tutorial 2, Q2)
+> Light of intensity $I_o$ and polarized parallel to the transmission axis of a polarizer is incident on an analyzer.
+> a) If the transmission axis of the analyzer makes an angle of 45° with the axis of the polarizer, what is the intensity of the transmitted light?
+> b) What should the angle between the transmission axes be to make $I/I_o = 1/3$?
+
+*Think first: decide whether a factor of ½ belongs here.*
+
+> [!tip]- Hint
+> The light is already polarized along the polarizer's axis, so there is no factor ½. For (b), take the square root before the inverse cosine. Stuck? Revisit [[L3a Polarization#Polarizer and analyzer|L3a, polarizer and analyzer]].
+
+> [!success]- Answer
+> (a) $I = I_o\cos^2 45^\circ = $ **I_o/2**.
+> (b) $\cos^2\theta = \dfrac13$, so $\cos\theta = 0.577$ and **θ = 54.7°**.
+
+#### Tutorial 2, Q3
+> [!question] T2-Q3 · Calculation (Tutorial 2, Q3)
+> The drawing shows four sheets of polarizing material, each with its transmission axis oriented differently. Light that is polarized in the vertical direction is incident from the left and has an average intensity of 27 W/m². Determine the average intensity of the light that emerges on the right in the drawing when sheet A alone is removed, when sheet B alone is removed, when sheet C alone is removed, and when sheet D alone is removed.
+>
+> ![[L3a-T2Q3-four-sheets.png]]
+> *Figure: Tutorial 2, Q3. Look at which side of the vertical each tilted axis lies on.*
+
+*Think first: write the angle between every pair of neighbouring sheets.*
+
+> [!tip]- Hint
+> The incoming light is already vertically polarized, so there is no factor ½. Read the drawing carefully: B is 30° to one side of the vertical and D is 60° to the other side. Stuck? Revisit [[L3a Polarization#Stacks of polarizers|L3a, stacks of polarizers]].
+
+> [!success]- Answer
+> Angles between the sheets' axes: A to B 30°, B to C 60°, C to D 30°, A to C 90°, and B to D 30° + 60° = 90°.
+> - **A removed** (B, C, D): $27\cos^2 30^\circ = 20.25$, then $20.25\cos^2 60^\circ = 5.06$, then $5.06\cos^2 30^\circ = $ **3.8 W/m²**.
+> - **B removed** (A, C, D): A passes all 27 W/m², but A and C are crossed at 90°: **0**.
+> - **C removed** (A, B, D): 27 W/m² becomes 20.25 W/m² after B, but B and D are crossed at 90°: **0**.
+> - **D removed** (A, B, C): 27 W/m², then 20.25 W/m², then $20.25\cos^2 60^\circ = $ **5.1 W/m²**.
+>
+> Check your reading of the drawing: if B and D were on the same side of the vertical, removing C would give 15.2 W/m² instead of 0.
+
+#### Tutorial 2, Q4
+> [!question] T2-Q4 · Calculation (Tutorial 2, Q4)
+> The drawing shows light incident on a polarizer whose transmission axis is parallel to the z axis. The polarizer is rotated clockwise through an angle α. The average intensity of the incident light is 7.0 W/m². Determine the average intensity of the transmitted light for each of the six cases shown in the table.
+>
+> ![[L3a-T2Q4-table.png]]
+> *Figure: Tutorial 2, Q4, the table to fill in and the setup.*
+
+*Think first: decide for each row whether the factor ½ or Malus's law applies.*
+
+> [!tip]- Hint
+> Unpolarized light always loses half. For polarized light, use the angle between its polarization and the rotated axis; the y axis is 90° from the z axis. Stuck? Revisit [[L3a Polarization#Unpolarized light meets a polarizer|L3a, unpolarized light]].
+
+> [!success]- Answer
+> | Incident light | α = 0° | α = 35° |
+> |---|---|---|
+> | (a) unpolarized | 3.5 W/m² | 3.5 W/m² |
+> | (b) polarized along z | 7.0 W/m² | $7.0\cos^2 35^\circ = 4.7$ W/m² |
+> | (c) polarized along y | 0 (axis at 90° to y) | $7.0\cos^2 55^\circ = 2.3$ W/m² |
+>
+> In (c), turning the axis 35° away from z leaves it 90° − 35° = 55° from y.
+
+#### Tutorial 2, Q5
+> [!question] T2-Q5 · Calculation (Tutorial 2, Q5)
+> A parallel beam of unpolarized light in air is incident at an angle of 54.5° (with respect to the normal) on a plane glass surface. The reflected beam is completely linearly polarized.
+> a) What is the refractive index of the glass?
+> b) What is the angle of refraction of the transmitted beam?
+
+*Think first: name the special angle this describes.*
+
+> [!tip]- Hint
+> Completely polarized reflected light means the angle of incidence is the polarizing (Brewster) angle. Stuck? Revisit [[L3a Polarization#Light reflected from glass|L3a, polarization by reflection]].
+
+> [!success]- Answer
+> (a) From air, $\tan\theta_p = n$: $n = \tan 54.5^\circ = $ **1.40**.
+> (b) At the polarizing angle the reflected and refracted rays are perpendicular: $\theta_r = 90^\circ - 54.5^\circ = $ **35.5°**.
+>
+> Check with Snell's law: $\sin 54.5^\circ = 0.814$, and $1.40\sin 35.5^\circ = 0.814$.
+
+#### Assignment 1, Q2
+> [!question] A1-Q2 · Calculation (Assignment 1, Q2)
+> Three polarizing filters are stacked, with the polarizing axes of the second and third filters at 23.0° and 62.0°, respectively, to that of the first. If unpolarized light is incident on the stack, the light has intensity 55.0 W/cm² after it passes through the stack. If the incident intensity is kept constant but the second polarizer is removed, what is the intensity of the light after it has passed through the stack?
+
+*Think first: decide whether you need the incident intensity.*
+
+> [!tip]- Hint
+> You don't need the incident intensity. Write the chain with and without the middle filter, then divide one by the other. Use angles between consecutive axes: 62.0° − 23.0° = 39.0°. Stuck? Revisit [[L3a Polarization#Stacks of polarizers|L3a, stacks of polarizers]].
+
+> [!success]- Answer
+> 1. With all three filters: $\dfrac{I_0}{2}\cos^2 23.0^\circ\cos^2 39.0^\circ = 55.0$ W/cm².
+> 2. Without the second filter: $I' = \dfrac{I_0}{2}\cos^2 62.0^\circ$.
+> 3. Divide: $I' = 55.0 \times \dfrac{\cos^2 62.0^\circ}{\cos^2 23.0^\circ\cos^2 39.0^\circ} = 55.0 \times \dfrac{0.2204}{0.8473 \times 0.6040} = 55.0 \times 0.4307$
+>
+> **Answer: I′ = 23.7 W/cm².** The incident intensity works out to $I_0 = 215$ W/cm², though the question doesn't ask for it.
+
+#### Assignment 1, Q3
+> [!question] A1-Q3 · Calculation (Assignment 1, Q3)
+> The refractive index of a certain glass is 1.66. For what incident angle is light reflected from the surface of this glass completely polarized if the glass is immersed in (a) air and (b) water (n = 1.33)?
+
+*Think first: decide which index goes on the bottom of the ratio.*
+
+> [!tip]- Hint
+> $\tan\theta_p = n_2/n_1$, where $n_1$ is the medium the light comes from. Stuck? Revisit [[L3a Polarization#Deriving Brewster's law|L3a, Brewster's law]].
+
+> [!success]- Answer
+> (a) In air: $\theta_p = \tan^{-1}(1.66) = $ **58.9°**.
+> (b) In water: $\theta_p = \tan^{-1}\left(\dfrac{1.66}{1.33}\right) = \tan^{-1}(1.248) = $ **51.3°**.
 
 ## Errata
 > [!bug]- Slide 6, electromagnetic spectrum

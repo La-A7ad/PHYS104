@@ -46,6 +46,8 @@ L1 opens the chapter, so these two questions check background the chapter relies
 > [!success]- Answer
 > Young showed that light rays **interfere**: where two beams overlap, they can strengthen each other in some places and cancel to darkness in others. Cancellation is natural for waves, because a crest and a trough add to zero. Particles cannot do it: two particles arriving at one spot always bring more energy, never zero. So interference was the first clear evidence that light behaves as a wave.
 > During the 19th century the wave picture firmed up: Maxwell identified light as a high-frequency electromagnetic wave, and Hertz confirmed Maxwell's predictions experimentally.
+>
+> Background (L1 slide 5): until about 1800 most scientists pictured light as a stream of particles emitted by the object being viewed, which stimulated sight on entering the eye. Newton was the chief architect of that particle model; Huygens argued that light might instead be a wave.
 
 > [!note]- Why it works
 > Wave disturbances add with sign, so a positive and a negative displacement can cancel. Particle arrivals only add. Any experiment that makes darkness by adding two beams together is therefore evidence for waves.
@@ -79,7 +81,7 @@ L1 opens the chapter, so these two questions check background the chapter relies
 > A violet photon carries 7.50/4.00 = 1.9 times the energy of a red one. Making the red beam brighter does **not** change the energy of each red photon: brightness does not appear in $E = hf$, so a brighter beam at the same frequency must carry more photons, not bigger ones.
 
 > [!note]- Why it works
-> In the photon picture, light's energy comes in lumps (quanta) whose size is set by frequency. Einstein used this idea, built on Planck's quantization, to explain the photoelectric effect (L1 slide 7), whose puzzle was that the ejected electrons' kinetic energy does not depend on the light's intensity (slide 6). Light shows wave behaviour in some experiments and particle behaviour in others: its dual nature.
+> In the photon picture, light's energy comes in lumps (quanta) whose size is set by frequency. In 1905 Einstein used this idea, built on Max Planck's quantization of 1900, to explain the photoelectric effect (L1 slide 7), whose puzzle was that the ejected electrons' kinetic energy does not depend on the light's intensity (slide 6). Light shows wave behaviour in some experiments and particle behaviour in others: its dual nature.
 
 > [!question] L1-Q2x · [Extension] Comparison
 > An FM radio station broadcasts at 100 MHz. How many of its photons carry the same total energy as a single violet photon (7.50 × 10¹⁴ Hz)?
@@ -102,6 +104,12 @@ L1 opens the chapter, so these two questions check background the chapter relies
 > (c) λ ≫ d: the opening behaves like a point source, sending out spherical waves.
 >
 > The spreading in (b) and (c) is **diffraction**. Only case (a) can be drawn with straight rays. That is the **ray approximation**: in a uniform medium light travels in straight lines, changing direction only where the medium changes (L1 slide 8). The rest of the chapter assumes λ ≪ d.
+>
+> ![[L1-s08-rays.png]]
+> *Figure (L1 slide 8): rays are straight lines perpendicular to the wave fronts. They spread from a point source (left) and run parallel for a plane wave (right).*
+>
+> ![[L1-s09-barrier.png]]
+> *Figure (L1 slide 9): a plane wave meeting an opening of width d, for λ ≪ d, λ ≈ d and λ ≫ d.*
 
 > [!note]- Why it works
 > Rays point the way the wave travels, perpendicular to its wave fronts (slide 8). A wide opening lets a long, flat stretch of wave front through, so the rays stay parallel. A narrow opening lets through only a short piece, which acts like a new source and curves outward.
@@ -127,6 +135,11 @@ L1 opens the chapter, so these two questions check background the chapter relies
 > (c) It retraces the original incident path in reverse: light paths are reversible.
 >
 > In every case the incident ray, the reflected ray and the normal lie in one plane. Together with $\theta_1' = \theta_1$, that is the **law of reflection** (L1 slide 10).
+>
+> **Reflection** itself is light rebounding when it meets a reflecting surface (slide 10).
+>
+> ![[L1-s10-reflection.png]]
+> *Figure (L1 slide 10): the angle of incidence θ₁ and the angle of reflection θ₁′, both measured from the normal.*
 
 > [!note]- Why it works
 > The law compares angles measured from the normal. Swapping the incident and reflected rays leaves $\theta_1' = \theta_1$ unchanged, which is why paths are reversible. Mixing up surface angles and normal angles is the most common slip in mirror problems.
@@ -149,6 +162,12 @@ L1 opens the chapter, so these two questions check background the chapter relies
 > [!success]- Answer
 > On the smooth mirror all the normals point the same way, so parallel incoming rays leave parallel. This is **specular** reflection, and only an eye in that one direction sees the light. On the rough paper the normals point in many directions, so the reflected rays scatter in many directions. This is **diffuse** reflection, visible from almost anywhere.
 > The paper still obeys $\theta_1' = \theta_1$ at every tiny patch. The patches just face different ways.
+>
+> ![[L1-s12-specular.png]]
+> *Figure (L1 slide 12): specular reflection from a smooth surface. Parallel rays stay parallel, so only an eye in the right place sees the light.*
+>
+> ![[L1-s13-diffuse.png]]
+> *Figure (L1 slide 13): diffuse reflection from a rough surface. Rays leave in all directions, so eyes in many positions see the light.*
 
 > [!note]- Why it works
 > The law of reflection is local: it holds at each point, relative to that point's own normal. A rough surface is a collection of tiny mirrors tilted at different angles, so one law produces many outgoing directions.
@@ -209,6 +228,9 @@ L1 opens the chapter, so these two questions check background the chapter relies
 
 > [!note]- Why it works
 > With mirrors at 90°, the angle at the second mirror's normal is always the complement of θ, so the two turns always add to 180°. That is why corner reflectors return light toward its source without careful aiming; L1 slide 15 shows a panel on the Moon, car taillights and road signs.
+>
+> ![[L1-s15-retroreflection.png]]
+> *Figure (L1 slide 15): retroreflectors on the Moon, in a car taillight, a transparent sphere, and a stop sign covered in tiny spheres.*
 
 > [!question] L1-Q7x · [Extension] Explanation
 > A reflector panel on the Moon returns a laser pulse to the observatory on Earth that sent it, even though nobody aimed it precisely. Two mirrors at 90° only do this for rays travelling in one plane. What does the panel need to work for rays arriving from any direction?
@@ -252,10 +274,51 @@ No hints. Answer all five, then check.
 > [!success]- Answer
 > The sign. Its spheres retroreflect, returning light toward its source (L1 slide 15). The paper reflects diffusely, spreading light in all directions, so only a small part comes back to you.
 
-## Practice links
-Open these after the recall sections. The questions are not copied here.
-- **Tutorial 1** (`Sheet 1_PHYS 104_Fall 2026.pdf`), **Q1**: two perpendicular mirrors; find the angle of incidence that sends a beam to a given point on the second mirror. Style: geometry calculation with the law of reflection.
-- **Assignment 1** (`Assignment 1 - PHYS 104 - Fall 2026.pdf`): no question targets L1 on its own.
+## Practice
+Everything needed is here: the slide's worked example and the tutorial question are written out in full, with their figures. Answer first, then open the boxes. All tutorial and assignment questions, in sheet order, are also collected in [[Tutorials and Assignment]].
+
+### Lecture examples
+
+#### L1-Ex1
+> [!question] L1-Ex1 · Calculation (L1 slide 14)
+> Two mirrors meet at an angle of 120°. A ray strikes mirror M1 at 65° from the normal. Find the angle the ray makes with the normal to mirror M2 after it has reflected from both mirrors.
+
+*Think first: sketch the two mirrors and the ray before opening the hint.*
+
+> [!tip]- Hint
+> Turn the angle leaving M1 into an angle with M1's surface, then use the triangle formed by the ray and the two mirrors.
+
+> [!success]- Answer
+> 1. Law of reflection at M1: the ray leaves at 65° from the normal, which is 90° − 65° = 25° from M1's surface.
+> 2. Triangle formed by the ray and the two mirrors: 25° + 120° + x = 180°, so x = 35° between the ray and M2's surface.
+> 3. From M2's normal: 90° − 35° = **55°**. The ray also reflects from M2 at 55°.
+>
+> Check: the two reflections turn the ray by (180° − 130°) + (180° − 110°) = 120°, which equals 360° − 2(120°).
+>
+> ![[L1-two-mirror.png]]
+> *Figure: L1-Ex1 drawn to scale from the slide's values (L1 slide 14). Black arcs are angles from normals, blue arcs angles from surfaces.*
+
+### Tutorial and assignment questions
+
+#### Tutorial 1, Q1
+> [!question] T1-Q1 · Calculation (Tutorial 1, Q1)
+> Two plane mirrors intersect at right angles. A laser beam strikes the first of them at a point 11.5 cm from their point of intersection, as shown in the figure. For what angle of incidence at the first mirror will this ray strike the midpoint of the second mirror (which is 28.0 cm long) after reflecting from the first mirror?
+>
+> ![[L1-T1Q1-mirrors.png]]
+> *Figure: Tutorial 1, Q1.*
+
+*Think first: mark the midpoint of the second mirror, then sketch the reflected ray.*
+
+> [!tip]- Hint
+> The midpoint is half the second mirror's length from the corner. The first mirror's normal runs parallel to the second mirror, so the reflected ray's run along each mirror gives the angle through one tangent. Stuck? Revisit [[L1 Nature of Light#Two mirrors at an angle|L1, two mirrors]].
+
+> [!success]- Answer
+> 1. Midpoint of the 28.0 cm mirror: 14.0 cm from the corner.
+> 2. After reflection the ray covers 11.5 cm along the first mirror and 14.0 cm along the second mirror, which is parallel to the first mirror's normal.
+> 3. Angle from the normal: $\tan\theta = \dfrac{11.5}{14.0} = 0.821$, so $\theta = 39.4^\circ$.
+> 4. Law of reflection: the angle of incidence equals this angle of reflection.
+>
+> **Answer: 39.4°.**
 
 ## Errata
 > [!bug]- L1 slides: nothing to correct

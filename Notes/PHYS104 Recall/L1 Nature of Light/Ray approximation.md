@@ -21,6 +21,9 @@ Whether the ray picture survives an opening of width d depends on the wavelength
 | λ ≈ d | spreads out after the opening (diffraction) |
 | λ ≫ d | the opening acts like a point source of spherical waves |
 
+![[L1-s09-barrier.png]]
+*Figure (L1 slide 9).*
+
 Everything after this in the chapter, from mirrors to prisms, assumes the first case.
 
 ## Worked detail

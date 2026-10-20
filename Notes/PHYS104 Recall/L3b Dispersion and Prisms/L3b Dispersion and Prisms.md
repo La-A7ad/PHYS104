@@ -69,6 +69,9 @@ Two questions from [[L3a Polarization|L3a]].
 
 > [!tip]- Hint
 > Look at how n changes with wavelength on the slide 3 graph, then use $v = c/n$ and Snell's law. Stuck? Read [[Dispersion]] first.
+>
+> ![[L3b-s03-n-vs-lambda.png]]
+> *Figure (L3b slide 3): index of refraction against vacuum wavelength for six transparent materials.*
 
 > [!success]- Answer
 > Over the visible range, n **decreases** as the wavelength increases (slide 4): $n_V > n_B > n_G > n_Y > n_R$. This dependence of n on wavelength is **dispersion**, $n = n(\lambda)$ (slide 3).
@@ -76,12 +79,18 @@ Two questions from [[L3a Polarization|L3a]].
 > - Bending: at each face violet refracts more, with a smaller refraction angle inside the glass, so the prism deviates violet more than red: $\delta_V > \delta_R$ (slide 5).
 >
 > White light therefore fans out into a spectrum, red deviated least and violet most.
+>
+> ![[L3b-s05-prism-dispersion.png]]
+> *Figure (L3b slide 5): white light spread by a prism. Violet is deviated most and red least; θ = δ_V − δ_R measures the spread.*
 
 > [!note]- Why it works
 > In vacuum all colours travel at c; inside matter the speed depends on the wavelength, so n does too (slide 3). Snell's law turns a slightly larger n into a slightly larger bend, and the colours separate.
 
 > [!question] L3b-Q2x · [Extension] Comparison
 > On the slide 3 graph, fused quartz has a much flatter n(λ) curve than silicate flint glass. Which would make a better single-element camera lens, if you want all the colours to focus together?
+>
+> ![[L3b-s03-n-vs-lambda.png]]
+> *Figure (L3b slide 3).*
 
 > [!success]- Extension answer
 > Fused quartz. A flatter curve means the colours' indices differ less, so they bend almost equally and focus closer together.
@@ -92,6 +101,9 @@ Two questions from [[L3a Polarization|L3a]].
 ## Deriving the prism relations
 > [!question] L3b-D1 · Derivation (L3b slides 6 to 7)
 > A ray enters face AB of a **prism** with apex angle A at angle of incidence $i_1$, refracts to $r_1$, crosses the prism, meets face AC at $r_2$, and leaves at $i_2$. The normals drawn at the two faces meet at a point O inside the prism. Find how $r_1 + r_2$ relates to A, and find the total deviation δ in terms of $i_1$, $i_2$ and A.
+>
+> ![[L3b-s07-prism-geometry-masked.png]]
+> *Figure (L3b slides 6 to 7), with the slide's two results hidden: the ray, the normals meeting at O, and the angles i₁, r₁, r₂, i₂ and δ.*
 
 *Think first: sketch the prism, both normals and the point O.*
 
@@ -122,6 +134,9 @@ Two questions from [[L3a Polarization|L3a]].
 > 3. **Angle of deviation**: $\delta = (i_1 - r_1) + (i_2 - r_2) = i_1 + i_2 - A$.
 >
 > Together with Snell's law at each face for a prism in air, $\sin i_1 = n\sin r_1$ and $n\sin r_2 = \sin i_2$, these relations trace any ray through any prism.
+>
+> ![[L3b-s07-prism-geometry.png]]
+> *Figure (L3b slide 7): the full slide figure, with both results written in.*
 
 > [!note]- Why it works
 > The **apex angle** A has to be shared between the two inside angles, because the two normals are tilted relative to each other by the same angle as the two faces. Both faces bend the ray the same way, toward the prism's base in the slide figures, so the two deviations add instead of cancelling.
@@ -272,6 +287,9 @@ Two questions from [[L3a Polarization|L3a]].
 > - Red: $\delta_R = (1.514 - 1)(5.0^\circ) = 2.57^\circ$
 > - Violet: $\delta_V = (1.532 - 1)(5.0^\circ) = 2.66^\circ$
 > - **Angular dispersion**: $\theta = \delta_V - \delta_R = (n_V - n_R)A = (0.018)(5.0^\circ) = 0.090^\circ$
+>
+> ![[L3b-s12-angular-dispersion.png]]
+> *Figure (L3b slides 12 to 13): red and violet rays leaving a prism with deviations δ_R and δ_V; the angle between them is the angular dispersion.*
 
 > [!note]- Why it works
 > For small angles the sines in Snell's law can be replaced by the angles themselves: $i_1 = n r_1$ and $i_2 = n r_2$. Then $\delta = i_1 + i_2 - A = n(r_1 + r_2) - A = (n - 1)A$ (slide 11). The colour spread is the difference between two such deviations.
@@ -331,6 +349,9 @@ Two questions from [[L3a Polarization|L3a]].
 > ![[L3b-rainbow-angles.png]]
 > *Figure: (a) one drop with the slide's 40° and 42°; (b) the bow as circles of 40° and 42° around the antisolar point (L3b slide 17). Schematic: the Sun's 10° height and the drawing's proportions were chosen for illustration [approximate].*
 >
+> ![[L3b-s17-rainbow.png]]
+> *Figure (L3b slide 17, a textbook figure): left, the path of sunlight through one raindrop; right, the observer, with red reaching the eye from higher drops and violet from lower ones.*
+>
 > > [!quote] Textbook note
 > > Textbook p. 913: from a high drop the most intense red light reaches the observer "because it is deviated the least", while the most intense violet light passes over the observer because it is deviated the most. Light actually leaves a drop over a range of angles from 0° to 42°; 40° to 42° is where the most intense light exits (Pitfall Prevention 34.5).
 
@@ -384,11 +405,65 @@ No hints. Six questions across L3b.
 > [!success]- Answer
 > θc = sin⁻¹(1/1.70) = 36.0°. The limit is r₂ = 36.0°, so r₁ = 24.0°; sin i₁ = 1.70 sin 24.0° = 0.691, so i₁,min = **43.7°**.
 
-## Practice links
-Open these after the recall sections. The questions are not copied here.
-- **Assignment 1** (`Assignment 1 - PHYS 104 - Fall 2026.pdf`), **Q4**: equilateral prism with separate indices for violet and red at a fixed angle of incidence; find the angular separation. Style: trace two colours through the prism.
-- **Tutorial 1** (`Sheet 1_PHYS 104_Fall 2026.pdf`), **Q6**: a ray meets the second face exactly at the critical angle; find the incidence at the first face. Style: $r_1 + r_2 = A$ plus the critical angle.
-- No tutorial sheet so far covers minimum deviation, dispersive power or the Abbe number. Use L3b-Ex1 and L3b-Ex2 (slides 15 to 16) and the questions above.
+## Practice
+Everything needed is here: the slide examples and the assignment question are written out in full. Answer first, then open the boxes. All tutorial and assignment questions, in sheet order, are also collected in [[Tutorials and Assignment]].
+
+### Lecture examples
+
+#### L3b-Ex1
+> [!question] L3b-Ex1 · Calculation (L3b slide 15)
+> A prism of apex angle 60° gives a minimum deviation of 37°. Find its index of refraction n.
+
+*Think first: write the formula before substituting.*
+
+> [!tip]- Hint
+> At minimum deviation, $n = \sin\frac{A+\delta_{min}}{2}\big/\sin\frac{A}{2}$.
+
+> [!success]- Answer
+> $$n = \frac{\sin\frac{60^\circ + 37^\circ}{2}}{\sin\frac{60^\circ}{2}} = \frac{\sin 48.5^\circ}{\sin 30^\circ} = \frac{0.7490}{0.5000} = 1.50$$
+> **n = 1.50.**
+
+#### L3b-Ex2
+> [!question] L3b-Ex2 · Calculation (L3b slide 16)
+> A 60° prism of BK7 glass ($n_R = 1.5143$, $n_V = 1.5224$, $n_Y = 1.5170$) is used at minimum deviation. Find $\delta_R$, $\delta_V$, the angle of dispersion θ, the dispersive power ω and the Abbe number V.
+
+*Think first: write the formula for each of the five quantities.*
+
+> [!tip]- Hint
+> With A = 60°, $\sin\frac{60^\circ + \delta}{2} = n\sin 30^\circ = n/2$ for each colour. Then $\omega = \frac{n_V - n_R}{n_Y - 1}$ and $V = 1/\omega$.
+
+> [!success]- Answer
+> - Red: $\sin\frac{60^\circ + \delta_R}{2} = \frac{1.5143}{2} = 0.75715$, so $\frac{60^\circ + \delta_R}{2} = 49.21^\circ$ and **δ_R = 38.43°**
+> - Violet: $\sin\frac{60^\circ + \delta_V}{2} = \frac{1.5224}{2} = 0.76120$, so $\frac{60^\circ + \delta_V}{2} = 49.57^\circ$ and **δ_V = 39.14°**
+> - Angle of dispersion: θ = 39.14° − 38.43° = **0.71°**
+> - Dispersive power: $\omega = \dfrac{1.5224 - 1.5143}{1.5170 - 1} = \dfrac{0.0081}{0.5170} = $ **0.0157**
+> - Abbe number: $V = 1/\omega = $ **63.8**, above 50, so BK7 is a low-dispersion (crown) glass.
+>
+> The slide's own figures (38.44°, 0.70°, 0.0156, 64.1) contain small slips; see [[L3b Dispersion and Prisms#Errata|L3b errata]].
+
+### Tutorial and assignment questions
+
+#### Assignment 1, Q4
+> [!question] A1-Q4 · Calculation (Assignment 1, Q4)
+> The index of refraction for violet light in silica flint glass is 1.66 and that for red light is 1.62. What is the angular separation of visible light passing through an equilateral prism of apex angle 60.0° if the angle of incidence is 50.0°?
+
+*Think first: list the steps you will repeat for each colour.*
+
+> [!tip]- Hint
+> Trace each colour separately: Snell's law at face 1, then $r_2 = 60^\circ - r_1$, check $r_2$ against the critical angle, then Snell's law at face 2. The separation is the difference between the two exit angles. Keep four figures until the end. Stuck? Revisit [[L3b Dispersion and Prisms#Tracing a ray through a prism|L3b, tracing a ray]].
+
+> [!success]- Answer
+> With $\sin 50.0^\circ = 0.7660$:
+>
+> | Step | Violet, n = 1.66 | Red, n = 1.62 |
+> |---|---|---|
+> | $\sin r_1 = 0.7660/n$ | 0.4615, so $r_1 = 27.48^\circ$ | 0.4729, so $r_1 = 28.22^\circ$ |
+> | $r_2 = 60.0^\circ - r_1$ | $32.52^\circ$ | $31.78^\circ$ |
+> | critical angle, $\sin^{-1}(1/n)$ | $37.04^\circ$, so it exits | $38.12^\circ$, so it exits |
+> | $\sin i_2 = n\sin r_2$ | 0.892, so $i_2 = 63.17^\circ$ | 0.853, so $i_2 = 58.56^\circ$ |
+> | deviation, $\delta = i_1 + i_2 - A$ | $53.17^\circ$ | $48.56^\circ$ |
+>
+> **Angular separation: 63.17° − 58.56° = 4.61°**, the same as $\delta_V - \delta_R$.
 
 ## Errata
 > [!bug]- Slide 17, rainbow wording

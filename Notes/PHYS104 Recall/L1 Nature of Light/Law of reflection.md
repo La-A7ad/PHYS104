@@ -17,6 +17,9 @@ The normal is the line perpendicular to the surface at the point where the ray l
 
 Smooth surfaces give **specular** reflection: parallel incoming rays leave parallel (slide 12). Rough surfaces give **diffuse** reflection: the rays leave in many directions, because each tiny patch of the surface has its own normal (slide 13). Both kinds obey $\theta_1' = \theta_1$ at every point.
 
+![[L1-s10-reflection.png]]
+*Figure (L1 slide 10).*
+
 ## Worked detail: surface angle to normal angle
 A ray meets a mirror at 72° from its surface.
 1. From the normal: $90^\circ - 72^\circ = 18^\circ$, so $\theta_1 = 18^\circ$.

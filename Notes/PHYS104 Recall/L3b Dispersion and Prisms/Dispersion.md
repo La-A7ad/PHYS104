@@ -13,6 +13,10 @@ Back to [[L3b Dispersion and Prisms]]
 ## Explanation
 In vacuum every colour travels at c. In a material the speed $v = c/n(\lambda)$ differs from colour to colour. For most transparent materials over the visible range, n falls as λ rises (slide 4):
 $$n_{violet} > n_{blue} > n_{green} > n_{yellow} > n_{red}$$
+
+![[L3b-s03-n-vs-lambda.png]]
+*Figure (L3b slide 3): n against vacuum wavelength for six materials.*
+
 By Snell's law, colours with different n refract by different angles. In a prism this gives the chain on slide 5: $\lambda_V < \lambda_R$, so $n_V > n_R$, so $v_V < v_R$, so violet bends more and $\delta_V > \delta_R$.
 
 **Monochromatic** light has a single wavelength (a laser, a sodium lamp); a prism deviates it but cannot spread it. **Polychromatic** light mixes many wavelengths (sunlight, an incandescent bulb); a prism fans it into a spectrum (slide 2).
