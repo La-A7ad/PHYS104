@@ -11,12 +11,14 @@
             "id": "09d94b44e57712ac",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Notes/PHYS104 Recall/Attachments/L1-two-mirror.png"
+                "file": "Notes/PHYS104 Recall/L1 Nature of Light/L1 Nature of Light.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "L1-two-mirror"
+              "icon": "lucide-file",
+              "title": "L1 Nature of Light"
             }
           }
         ]
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/PHYS104 Recall/Attachments/L1-two-mirror.png",
+                "file": "Notes/PHYS104 Recall/L1 Nature of Light/L1 Nature of Light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/PHYS104 Recall/Attachments/L1-two-mirror.png",
+                "file": "Notes/PHYS104 Recall/L1 Nature of Light/L1 Nature of Light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -159,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/PHYS104 Recall/Attachments/L1-two-mirror.png",
+                "file": "Notes/PHYS104 Recall/L1 Nature of Light/L1 Nature of Light.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,20 +190,46 @@
   },
   "active": "09d94b44e57712ac",
   "lastOpenFiles": [
-    "Notes/PHYS104 Recall/Attachments/L3b-deviation-curve.png",
-    "Notes/PHYS104 Recall/Attachments/L3b-rainbow-angles.png",
-    "Notes/PHYS104 Recall/Attachments/L1-two-mirror.png",
-    "Notes/Mock Quiz.md",
+    "Notes/PHYS104 Recall/L2 Refraction/L2 Refraction.md",
     "Notes/PHYS104 Recall/Attachments/L3a-malus-curve.png",
+    "Notes/PHYS104 Recall/L2 Refraction/Critical angle and TIR.md",
+    "Notes/PHYS104 Recall/Attachments/L1-two-mirror.png",
     "Notes/PHYS104 Recall/Attachments/L2-critical-angle.png",
     "Notes/PHYS104 Recall/Attachments/L2-snell-curve.png",
-    "Notes/PHYS104 Recall/L3b Dispersion and Prisms",
-    "Notes/PHYS104 Recall/L3a Polarization",
-    "Notes/PHYS104 Recall/L2 Refraction",
-    "Notes/PHYS104 Recall/L1 Nature of Light",
-    "Notes/PHYS104 Recall/Attachments",
-    "Notes/PHYS104 Recall",
-    "Notes/Cheat Sheet.md",
-    "Textbook/Physics for Scientists and Engineers Tenth Edition.pdf"
+    "Notes/PHYS104 Recall/Attachments/L3b-deviation-curve.png",
+    "Notes/PHYS104 Recall/L3a Polarization/L3a Polarization.md",
+    "Notes/PHYS104 Recall/Index.md",
+    "Notes/PHYS104 Recall/Recall Log.md",
+    "Notes/PHYS104 Recall/Recall Log.md.tmp.60662.380a7ebf9a65",
+    "Notes/PHYS104 Recall/Glossary.md",
+    "Notes/PHYS104 Recall/Glossary.md.tmp.60662.1ea3859fa693",
+    "Notes/PHYS104 Recall/Index.md.tmp.60662.c53a2ad0145c",
+    "Notes/PHYS104 Recall/L3b Dispersion and Prisms/Dispersive power and Abbe number.md",
+    "Notes/PHYS104 Recall/L3b Dispersion and Prisms/L3b Dispersion and Prisms.md",
+    "Notes/PHYS104 Recall/L3a Polarization/Electromagnetic spectrum.md",
+    "Notes/PHYS104 Recall/L3b Dispersion and Prisms/Rainbow.md",
+    "Notes/PHYS104 Recall/L3b Dispersion and Prisms/Rainbow.md.tmp.60662.786f8f917fa1",
+    "Notes/PHYS104 Recall/L3b Dispersion and Prisms/Dispersive power and Abbe number.md.tmp.60662.665737f0a57e",
+    "Notes/PHYS104 Recall/L3b Dispersion and Prisms/Minimum deviation.md",
+    "Notes/PHYS104 Recall/L3b Dispersion and Prisms/Minimum deviation.md.tmp.60662.a95f0edb8779",
+    "Notes/PHYS104 Recall/L3b Dispersion and Prisms/Prism deviation.md",
+    "Notes/PHYS104 Recall/L3b Dispersion and Prisms/Prism deviation.md.tmp.60662.2586dd53e2f9",
+    "Notes/PHYS104 Recall/L3b Dispersion and Prisms/Dispersion.md",
+    "Notes/PHYS104 Recall/L3b Dispersion and Prisms/Dispersion.md.tmp.60662.3c2ce1e2ab25",
+    "Notes/PHYS104 Recall/L3b Dispersion and Prisms/L3b Dispersion and Prisms.md.tmp.60662.bf3973d57ca0",
+    "Notes/PHYS104 Recall/L3a Polarization/Polarization and polarizers.md",
+    "Notes/PHYS104 Recall/L3a Polarization/Malus's law.md",
+    "Notes/PHYS104 Recall/L3a Polarization/Brewster's angle.md",
+    "Notes/PHYS104 Recall/L2 Refraction/Wavelength in a medium.md",
+    "Notes/PHYS104 Recall/L2 Refraction/Snell's law.md",
+    "Notes/PHYS104 Recall/L1 Nature of Light/L1 Nature of Light.md",
+    "Notes/PHYS104 Recall/L3a Polarization/Brewster's angle.md.tmp.60662.b44e67defee3",
+    "Notes/PHYS104 Recall/L3a Polarization/Apparent depth.md",
+    "Notes/PHYS104 Recall/L1 Nature of Light/Law of reflection.md",
+    "Index.md",
+    "Notes/PHYS104 Recall/L2 Refraction/Huygens' principle.md",
+    "Notes/PHYS104 Recall/L2 Refraction/Index of refraction.md",
+    "Notes/PHYS104 Recall/L1 Nature of Light/Photon energy.md",
+    "Notes/PHYS104 Recall/Attachments/L3b-rainbow-angles.png"
   ]
 }
