@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "7f0cf49b23870de4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f80bfff3f43e933",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09d94b44e57712ac",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Notes/PHYS104 Recall/Attachments/L1-two-mirror.png"
+              },
+              "icon": "lucide-image",
+              "title": "L1-two-mirror"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca3f13ef3114aa43",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c577adcd80902ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a683874b621f1ea0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "83a05578c49c30df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0ef864240b920ca1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87f539f60672c9af",
+    "type": "split",
+    "children": [
+      {
+        "id": "38ce955708cfa287",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "809c99a111f6f4c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/PHYS104 Recall/Attachments/L1-two-mirror.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0a6aac1ebe031ab2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/PHYS104 Recall/Attachments/L1-two-mirror.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4aaef194460b4472",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "faec993e41b67f8b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "97fe42c17080d4ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/PHYS104 Recall/Attachments/L1-two-mirror.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "09d94b44e57712ac",
+  "lastOpenFiles": [
+    "Notes/PHYS104 Recall/Attachments/L3b-deviation-curve.png",
+    "Notes/PHYS104 Recall/Attachments/L3b-rainbow-angles.png",
+    "Notes/PHYS104 Recall/Attachments/L1-two-mirror.png",
+    "Notes/Mock Quiz.md",
+    "Notes/PHYS104 Recall/Attachments/L3a-malus-curve.png",
+    "Notes/PHYS104 Recall/Attachments/L2-critical-angle.png",
+    "Notes/PHYS104 Recall/Attachments/L2-snell-curve.png",
+    "Notes/PHYS104 Recall/L3b Dispersion and Prisms",
+    "Notes/PHYS104 Recall/L3a Polarization",
+    "Notes/PHYS104 Recall/L2 Refraction",
+    "Notes/PHYS104 Recall/L1 Nature of Light",
+    "Notes/PHYS104 Recall/Attachments",
+    "Notes/PHYS104 Recall",
+    "Notes/Cheat Sheet.md",
+    "Textbook/Physics for Scientists and Engineers Tenth Edition.pdf"
+  ]
+}
