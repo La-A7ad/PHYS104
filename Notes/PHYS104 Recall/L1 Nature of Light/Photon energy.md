@@ -11,9 +11,9 @@ Back to [[L1 Nature of Light]]
 **Definition.** A photon is a lump (quantum) of light energy. Its energy depends only on the light's frequency: $E = hf$, where $h = 6.63\times10^{-34}$ J·s is Planck's constant, $f$ is in hertz and $E$ in joules (L1 slide 7).
 
 ## Explanation
-By the end of the 19th century the wave model had won: Young's interference, Maxwell's theory and Hertz's experiments all supported it. The photoelectric effect did not fit. Light falling on a metal can eject electrons, and the electrons' kinetic energy does not depend on the light's intensity (slide 6).
+By the end of the 19th century the wave model had won: Young's interference, Maxwell's theory and Hertz's experiments all supported it. The photoelectric effect did not fit. Light falling on a metal can eject electrons, ==🟠and the electrons' kinetic energy does not depend on the light's intensity== (slide 6).
 
-In 1905 Einstein explained this with Planck's idea of quantization: the energy of a light wave arrives in particles called photons, each carrying $hf$ (slide 7). Intensity does not appear in $E = hf$, so a brighter beam of the same colour must carry more photons, not more energetic ones. Light therefore acts as a wave in some experiments and as particles in others.
+In 1905 Einstein explained this with Planck's idea of quantization: the energy of a light wave arrives in particles called photons, each carrying $hf$ (slide 7). Intensity does not appear in $E = hf$, ==🟠so a brighter beam of the same colour must carry more photons==, ==🔴not more energetic ones.== Light therefore acts as a wave in some experiments and as particles in others.
 
 Combining with $c = \lambda f$ (L3a slide 6) gives $E = hc/\lambda$: the shorter the wavelength, the more energy per photon.
 
