@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/PHYS104 Recall/L1 Nature of Light/Law of reflection.md",
+                "file": "Notes/PHYS104 Recall/Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Law of reflection"
+              "title": "Index"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/PHYS104 Recall/L1 Nature of Light/Law of reflection.md",
+                "file": "Notes/PHYS104 Recall/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/PHYS104 Recall/L1 Nature of Light/Law of reflection.md",
+                "file": "Notes/PHYS104 Recall/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/PHYS104 Recall/L1 Nature of Light/Law of reflection.md",
+                "file": "Notes/PHYS104 Recall/Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,10 +190,14 @@
   },
   "active": "09d94b44e57712ac",
   "lastOpenFiles": [
+    "README.md.tmp.70604.019e746f9e87",
+    "README.md.tmp.70604.746f6df93094",
+    "Notes/PHYS104 Recall/L1 Nature of Light/Law of reflection.md",
+    "README.md",
+    "README.md.tmp.70604.1adf8a4019c5",
     "Notes/PHYS104 Recall/L1 Nature of Light/L1 Nature of Light.md",
     "Notes/PHYS104 Recall/L1 Nature of Light/Ray approximation.md",
     "Notes/PHYS104 Recall/L1 Nature of Light/Photon energy.md",
-    "Notes/PHYS104 Recall/L1 Nature of Light/Law of reflection.md",
     "Notes/PHYS104 Recall/L2 Refraction/Snell's law.md",
     "Notes/PHYS104 Recall/Tutorials and Assignment.md.tmp.60662.5d461d851f14",
     "Notes/PHYS104 Recall/Tutorials and Assignment.md",
@@ -226,15 +230,11 @@
     "Notes/PHYS104 Recall/L3b Dispersion and Prisms/Rainbow.md.tmp.60662.786f8f917fa1",
     "Notes/PHYS104 Recall/L3b Dispersion and Prisms/Dispersive power and Abbe number.md.tmp.60662.665737f0a57e",
     "Notes/PHYS104 Recall/L3b Dispersion and Prisms/Minimum deviation.md",
-    "Notes/PHYS104 Recall/L3b Dispersion and Prisms/Minimum deviation.md.tmp.60662.a95f0edb8779",
     "Notes/PHYS104 Recall/L3b Dispersion and Prisms/Prism deviation.md",
-    "Notes/PHYS104 Recall/L3b Dispersion and Prisms/Prism deviation.md.tmp.60662.2586dd53e2f9",
     "Notes/PHYS104 Recall/L3b Dispersion and Prisms/Dispersion.md",
     "Notes/PHYS104 Recall/L3a Polarization/Polarization and polarizers.md",
     "Notes/PHYS104 Recall/L3a Polarization/Malus's law.md",
     "Notes/PHYS104 Recall/L3a Polarization/Brewster's angle.md",
-    "Notes/PHYS104 Recall/L2 Refraction/Wavelength in a medium.md",
-    "Notes/PHYS104 Recall/L3a Polarization/Apparent depth.md",
-    "Index.md"
+    "Notes/PHYS104 Recall/L2 Refraction/Wavelength in a medium.md"
   ]
 }
